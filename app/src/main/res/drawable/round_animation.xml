@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <item>
+        <shape android:shape="rectangle">
+            <corners android:radius="20dp" /> <!-- Set your desired corner radius -->
+            <solid android:color="#00000000" /> <!-- Background color if needed -->
+        </shape>
+    </item>
+    <item android:drawable="@drawable/gradient_background" /> <!-- Your animation list -->
+</layer-list>
+
+
